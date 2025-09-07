@@ -86,5 +86,21 @@ These views are used directly to power the visualizations in Power BI.
 ---
 
 ## 🔍 Conclusion
-Attrition is strongly influenced by **tenure, age, income, overtime, and satisfaction**. Using SQL for normalized views and Power BI for visualization provides a clear view of employee turnover trends, helping HR make **data-driven retention strategies**.
+
+The analysis of employee attrition highlights several important trends:  
+
+1. **Tenure is a key factor** – Employees with 0–2 years at the company are most likely to leave, while long-term employees (10+ years) are the most stable. This suggests that **early retention programs** could significantly reduce attrition.  
+
+2. **Age influences turnover** – Younger employees (<30 years) show the highest attrition, indicating the need for strategies to **engage and retain early-career talent**.  
+
+3. **Income and compensation matter** – Low-income employees are leaving more frequently, whereas high-income employees tend to stay. Competitive compensation and clear growth opportunities could help reduce attrition.  
+
+4. **Overtime and work conditions impact retention** – Employees working overtime and those with lower environment satisfaction are more likely to leave. This highlights the importance of **work-life balance initiatives** and improving the work environment.  
+
+5. **Demographic factors** – Male and single employees show higher attrition rates, while older, married, or divorced employees tend to be more stable.  
+
+6. **Department and role-specific risks** – R&D and Sales have the highest attrition, while HR and technical roles are relatively stable. This indicates **targeted interventions** may be needed in high-risk departments.  
+
+**Overall Insight:**  
+Attrition is strongly influenced by a combination of **tenure, age, income, overtime, satisfaction, and department**. By addressing these factors, HR can implement targeted strategies to **improve retention, reduce turnover, and maintain a stable workforce**.
 
